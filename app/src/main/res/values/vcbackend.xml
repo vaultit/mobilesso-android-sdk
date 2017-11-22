@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Virtual card backend alpha urls-->
+    <string name="backend_person_get" translatable="false">https://vcalpha.id06.se/person</string>
+    <string name="backend_photo_get" translatable="false">https://vcalpha.id06.se/person/photo</string>
+
+</resources>

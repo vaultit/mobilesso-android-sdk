@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mobile SSO SDK Example App</string>
+
+
+    <string name="name_caption">Name</string>
+    <string name="timestamp_caption">Time</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="auth_options_prompt">Choose option</string>
+
+    <string-array name="auth_options">
+        <item>NFC Token</item>
+        <item>Password</item>
+    </string-array>
+
+
+</resources>
